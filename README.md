@@ -9,6 +9,10 @@ cost gitNames = ['name1', 'name2']
 
 
 
+//Function to generate unique for the files
+function generateUniqueName() {
+| | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
+}
+
 
 # randomCatFacts-
-1
