@@ -13,7 +13,14 @@ cost gitNames = ['name1', 'name2']
 function generateUniqueName() {
 | | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
 }
-dhgd f-Hkd xkh jkf gkhljg
-bgj]
+
+
+//Function to push rondom cat fact to the GitHub repo
+async function pushRandomCatName(repoOwner, token) {
+| | //API initialization
+| | conts octokit = new Octokit({ auth: token });
+| |
+| |
+
 
 # randomCatFacts-
