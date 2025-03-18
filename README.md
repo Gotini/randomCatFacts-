@@ -24,7 +24,7 @@ async function pushRandomCatName(repoOwner, token) {
 | | |
 | | | | //Get all files from the repo
 | | | | const branchFlesData = await octokit.rest.repos.getContent({
-| |
+| | | | | | ower: repoOwner,
 | |
 | |
 | |
