@@ -27,7 +27,7 @@ async function pushRandomCatName(repoOwner, token) {
 | | | | | | ower: repoOwner,
 | | | | | | 
 | | | | | |
-| |
+| | | | | |
 | |
 | |
 # randomCatFacts-
