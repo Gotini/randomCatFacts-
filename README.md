@@ -60,4 +60,6 @@ const branchFlesData = await octokit.rest.repos.
  | | //Get all files
  | | //Get all files from the repo
  | | | | | | branch: 'main',
+ | | | | | | ower: repoOwner,
+ | | | | | | repo: 'randomCatFacts',
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
