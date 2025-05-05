@@ -66,6 +66,7 @@ const branchFlesData = await octokit.rest.repos.
  | | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
  | | const branchFlesData = await octokit.rest.repos.getContent({
  | | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
+ | | | | | | branch: 'main',
 }
 | | | | //Get all files from the repo
 | | | | branch: 'main',
