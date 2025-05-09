@@ -76,4 +76,6 @@ const branchFlesData = await octokit.rest.repos.
 | | djll'rxkh = gjgr
 | | | | | | branch: 'main',
 | | | | branch: 'main', `fact_${Math.floor(Math.random().txt`;
+cost gitNames = ['name1', 'name2']
+
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
