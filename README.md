@@ -78,4 +78,5 @@ const branchFlesData = await octokit.rest.repos.
 | | | | branch: 'main', `fact_${Math.floor(Math.random().txt`;
 cost gitNames = ['name1', 'name2']
 
+//Function to push rondom cat fact to the GitHub repo
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
