@@ -81,4 +81,5 @@ cost gitNames = ['name1', 'name2']
 //Function to push rondom cat fact to the GitHub repo
 async function pushRandomCatName(repoOwner, token) {
 | | conts octokit = new Octokit({ auth: token });
+| | | | //Get all files from the repo
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
