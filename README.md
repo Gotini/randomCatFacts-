@@ -86,4 +86,10 @@ async function pushRandomCatName(repoOwner, token) {
 
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3']
 | | | | //Get all files from the repo
+
+
+//Function to generate unique for the files
+function generateUniqueName() {
+| | return `fact_${Math.floor(Math.random() * 1000000000)}.txt`;
+}
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
