@@ -92,4 +92,8 @@ async function pushRandomCatName(repoOwner, token) {
 function generateUniqueName() {
 | | return `fact_${Math.floor(Math.random() * 1000000000)}.txt`;
 }
+
+
+//Function to push rondom cat fact to the GitHub repo
+
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
