@@ -98,4 +98,7 @@ function generateUniqueName() {
 async function pushRandomCatName(repoOwner, token) {
 | | //API initialization
 | | conts octokit = new Octokit({ auth: token });
+| |
+| | try {
+
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
