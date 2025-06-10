@@ -122,5 +122,8 @@ async function pushRandomCatName(repoOwner, token) {
 | | //Get all files from the repo
 | | repo: 'main' = cost await
 | | const branchFlesData = await octokit.rest
+| |
+| | try {
+| |
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
