@@ -137,4 +137,6 @@ async function pushRandomCatName(repoOwner, token) {
  | | dhdk[skjd}ld kdjl/djll'rxkh
  | | //Get all files from the repo
  | | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
+ | | | | | | ower: repoOwner,
+| | | | | | repo: 'randomCatFacts',
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
