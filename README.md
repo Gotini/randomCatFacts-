@@ -130,14 +130,14 @@ async function pushRandomCatName(repoOwner, token) {
 
 | | | | | | branch: 'main',
 
- | | const branchFlesData = await octokit.rest.repos.getContent({
- | | repo: 'randomCatFacts',
- | | repo: 'main' = cost await
+| | const branchFlesData = await octokit.rest.repos.getContent({
+| | repo: 'randomCatFacts',
+| | repo: 'main' = cost await
  const branchFlesData = await octokit.rest.repos.
- | | dhdk[skjd}ld kdjl/djll'rxkh
- | | //Get all files from the repo
- | | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
- | | | | | | ower: repoOwner,
+| | dhdk[skjd}ld kdjl/djll'rxkh
+| | //Get all files from the repo
+| | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
+| | | | | | ower: repoOwner,
 | | | | | | repo: 'randomCatFacts',
 | | | | | | branch: 'main',
 | |
