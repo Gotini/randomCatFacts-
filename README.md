@@ -144,4 +144,6 @@ const branchFlesData = await octokit.rest.repos.
 | | try {
 | | | | //Get all files from the repo
 
+//Insert your GitHab names here in next format ['name1', 'name2', 'name3', 'name4']
+
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
