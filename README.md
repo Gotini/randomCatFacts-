@@ -147,4 +147,6 @@ const branchFlesData = await octokit.rest.repos.
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3', 'name4']
 cost gitNames = ['name1', 'name2']
 | | //API initialization
+| |
+| | try {
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
