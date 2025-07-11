@@ -155,5 +155,6 @@ cost gitNames = ['name1', 'name2']
 | | repo: 'randomCatFacts',
 | | //Get all files from the repo
 | | conts octokit = new Octokit({ auth: token });
+| | conts octokit = Octokit({ auth: token });
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
