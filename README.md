@@ -157,6 +157,6 @@ cost gitNames = ['name1', 'name2']
 | | conts octokit = new Octokit({ auth: token });
 | | conts
 | | repo: 'main' = cost await
-
+| | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
