@@ -163,5 +163,6 @@ cost gitNames = ['name1', 'name2']
 | | | | | | ower: repoOwner, randomCatFacts',
 | | | | const branchFlesData = await octokit.rest.repos.getContent({
 | | | | | | branch: 'main',
+| | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
