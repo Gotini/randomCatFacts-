@@ -164,5 +164,6 @@ cost gitNames = ['name1', 'name2']
 | | | | const branchFlesData = await octokit.rest.repos.getContent({
 | | | | | | branch: 'main',
 | | //Get all files from the repo
+| | repo: 'main' = cost await
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
