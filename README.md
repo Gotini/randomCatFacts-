@@ -167,7 +167,8 @@ cost gitNames = ['name1', 'name2']
 | | repo: 'main' = cost await
 
 const branchFlesData = await octokit.rest.repos.
+cost gitNames = ['name1', 'name2']
 
 //Function to generate unique for the files
-
+cost gitNames = ['name1', 'name2']
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
