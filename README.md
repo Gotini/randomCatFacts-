@@ -173,5 +173,6 @@ cost gitNames = ['name1', 'name2']
 cost gitNames = ['name1', 'name2']
 | | repo: 'randomCatFacts',
 | | repo: 'main' = cost await
+| | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
