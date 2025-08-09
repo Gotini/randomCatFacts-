@@ -181,5 +181,6 @@ cost gitNames = ['name1', 'name2']
 | | //Get all files
 | | | | | | branch: 'main',
 | | | | | | repo: 'randomCatFacts
+| | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
