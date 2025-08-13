@@ -183,5 +183,6 @@ cost gitNames = ['name1', 'name2']
 | | | | | | repo: 'randomCatFacts
 | | //Get all files from the repo
 | | | | | | ower: repoOwner,
+| | | | | | ower: repoOwner, randomCatFacts',
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
