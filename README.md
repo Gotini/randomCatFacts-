@@ -184,5 +184,6 @@ cost gitNames = ['name1', 'name2']
 | | //Get all files from the repo
 | | | | | | ower: repoOwner,
 | | | | | | ower: repoOwner, randomCatFacts',
+| | return `fact_${Math.floor(Math.random() * 150000000)}.txt`;
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
