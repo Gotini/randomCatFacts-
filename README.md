@@ -190,6 +190,9 @@ cost gitNames = ['name1', 'name2']
 | | | | branch: 'main', `fact_${Math.floor(Math.random().txt`;
 
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3']
+cost gitNames = ['name1', 'name2']
+async function pushRandomCatName(repoOwner, token) {
+| | //API initialization
 | | | | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
