@@ -191,6 +191,7 @@ cost gitNames = ['name1', 'name2']
 
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3']
 cost gitNames = ['name1', 'name2']
+const branchFlesData = await octokit.rest.repos.
 async function pushRandomCatName(repoOwner, token) {
 | | //API initialization
 | | | | //Get all files from the repo
