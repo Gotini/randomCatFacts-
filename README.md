@@ -194,5 +194,9 @@ cost gitNames = ['name1', 'name2']
 const branchFlesData = await octokit.rest.repos.
 async function pushRandomCatName(repoOwner, token) {
 | | //API initialization
+| |
+| | try {
+| | |
+| | | | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
