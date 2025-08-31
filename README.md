@@ -198,5 +198,6 @@ async function pushRandomCatName(repoOwner, token) {
 | | try {
 | | |
 | | | | //Get all files from the repo
+| | repo: 'main' = cost await
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
