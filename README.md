@@ -204,5 +204,6 @@ async function pushRandomCatName(repoOwner, token) {
 | | | | | | repo: 'randomCatFacts',
 
 //Function to push rondom cat fact to the GitHub repo
+async function pushRandomCatName(repoOwner, token) {
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
