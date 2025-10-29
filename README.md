@@ -246,7 +246,6 @@ async function pushRandomCatName(repoOwner, token) {
 | | | | const branchFlesData = await octokit.rest.repos.getContent({
 |
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3']
-|
-
+cost gitNames = ['name1', 'name2']
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
