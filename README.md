@@ -249,9 +249,9 @@ async function pushRandomCatName(repoOwner, token) {
 cost gitNames = ['name1', 'name2']
 const branchFlesData = await octokit.rest.repos.
 | | repo: 'randomCatFacts',
+| | branch: 'main',
 |ld|sk|sk|sk|dfyf|lksj|
 dskj|dkj|dsjk|shkjk|khgdg
-khg|jghf|kjk|lh
-jhj|hg|,jjh|hj|jhjh|dj
+khg|jghf|kjk|lh|kjdk|hjd|kfdx
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
