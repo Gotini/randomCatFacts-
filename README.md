@@ -251,6 +251,7 @@ const branchFlesData = await octokit.rest.repos.
 | | repo: 'randomCatFacts',
 | | branch: 'main',
 | | repo: 'main' = cost await
-|ld|sk|sk|sk|dfyf|lksj|
+| | const branchFlesData = await octokit.rest.repos.getContent({
+| |jdhd| |
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
