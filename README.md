@@ -258,7 +258,6 @@ const branchFlesData = await octokit.rest.repos.
 | | dhdk[skjd}ld kdjl/djll'rxkh
 | | //Get all files from the repo
 | | branch: 'main',
-| | //Get all files from the repo
-| | gkg|jhgl|kkh|fjl
+| | | | | | branch: 'main',
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
