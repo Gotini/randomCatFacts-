@@ -280,6 +280,8 @@ jgh|jgk|kgdi|lfkk|eewyv|hdscuj|jeedj
 cost gitNames = ['name1', 'name2']
 
 //Function to push rondom cat fact to the GitHub repo
+async function pushRandomCatName(repoOwner, token) {
 | | djll'rxkh = gjgr
 | | | | | | branch: 'main',
+
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
