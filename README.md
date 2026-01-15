@@ -287,7 +287,8 @@ async function pushRandomCatName(repoOwner, token) {
 
 //Insert your GitHab names here in next format ['name1', 'name2', 'name3']
 | | | | //Get all files from the repo
-khvl|;uftr|uyf||utshk||itdx||oydcvk||urdh
+
+
 //Function to generate unique for the files
 
 
