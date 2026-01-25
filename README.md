@@ -290,12 +290,5 @@ async function pushRandomCatName(repoOwner, token) {
 
 
 //Function to generate unique for the files
-LKSDH||ksdok||skjdyig||kds||gl;h||dlkl
-
-ksjdksd||sjksjdl|sljlskd||xkjgn||fkhjksjs||dkjkds
-khfjl||ycjujk||khfvl||skjfis||sdkj;fd||skj;ld
-hjsfuur||dkj;kf||skj;fjhz||kdj;x|dlksld||sdkjsdlk||slkjdsljzd
-slldshigt||djkkgk||dkhjsjkf||dfkjskjgf||skjfkjks||skjfkjsl
-
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
