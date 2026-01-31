@@ -291,6 +291,9 @@ async function pushRandomCatName(repoOwner, token) {
 
 //Function to generate unique for the files
 function generateUniqueName() {
+| | return `fact_${Math.floor(Math.random() * 1000000000)}.txt`;
+}
+
 hslhgld||skjdj ;g||ljdskjf||skjdsjn;
 khdjlsuc||xkjrkjdijf||dlskutuos||soututni||gjusd
 
