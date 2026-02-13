@@ -296,6 +296,7 @@ function generateUniqueName() {
 
 
 //Function to push rondom cat fact to the GitHub repo
+function generateUniqueName() {
 
 hslhgld||skjdj ;g||ljdskjf||skjdsjn;
 ksdhl||skjsfikjf||gfkshsdh||gkjlxlfs:
