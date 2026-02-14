@@ -297,6 +297,7 @@ function generateUniqueName() {
 
 //Function to push rondom cat fact to the GitHub repo
 function generateUniqueName() {
+| | return `fact_${Math.floor(Math.random() * 1000000000)}.txt`;
 
 hslhgld||skjdj ;g||ljdskjf||skjdsjn;
 ksdhl||skjsfikjf||gfkshsdh||gkjlxlfs:
