@@ -303,6 +303,5 @@ function generateUniqueName() {
 
 hslhgld||skjdj ;g||ljdskjf||skjdsjn;
 ksdhl||skjsfikjf||gfkshsdh||gkjlxlfs:
-sutkj||fidugh||xyitoix||hxkjdhvkgh||utichy
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
