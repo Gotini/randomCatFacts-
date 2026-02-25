@@ -303,6 +303,7 @@ function generateUniqueName() {
 
 
 //Function to push rondom cat fact to the GitHub repo
+async function pushRandomCatName(repoOwner, token) {
 
 hslhgld||skjdj ;g||ljdskjf||skjdsjn;
 ksdhl||skjsfikjf||gfkshsdh||gkjlxlfs:
