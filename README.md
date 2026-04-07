@@ -308,6 +308,8 @@ async function pushRandomCatName(repoOwner, token) {
 | | conts octokit = new Octokit({ auth: token });
 | | 
 | | try {
+| |
+| | try {
 fdhlkjl||dkjskj||kjds;lkf||sjkfkxlf
 kjfjdlg||dkjkfjk||dflkldkl
 afag||slkflk||sklksd|slldk
