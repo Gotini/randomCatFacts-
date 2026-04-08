@@ -310,8 +310,7 @@ async function pushRandomCatName(repoOwner, token) {
 | | try {
 | |
 | | try {
-fdhlkjl||dkjskj||kjds;lkf||sjkfkxlf
-kjfjdlg||dkjkfjk||dflkldkl
-afag||slkflk||sklksd|slldk
+| | |
+| | | | //Get all files from the repo
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
