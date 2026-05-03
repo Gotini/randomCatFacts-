@@ -320,6 +320,6 @@ async function pushRandomCatName(repoOwner, token) {
 | | const branchFlesData = await octokit.rest
 | |
 | | try {
-| | const branchFlesData = await octokit.rest
+| | const branchFlesData
 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
