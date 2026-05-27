@@ -333,6 +333,7 @@ async function pushRandomCatName(repoOwner, token) {
 | | | | | | ower: repoOwner,
 | | | | | | repo: 'randomCatFacts',
 | | | | | | branch: 'main',
+| | conts octokit = new Octokit({ auth: token });
 | | | |
 | | | |
 | | | |
