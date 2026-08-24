@@ -356,7 +356,7 @@ async function pushRandomCatName(repoOwner, token) {
 | |
 | | try {
 | |
-\ \ 
+| | try {
 | | | |
 | | 
 # randomCatFacts- sjhHG slHKd  hakjs Hksh
